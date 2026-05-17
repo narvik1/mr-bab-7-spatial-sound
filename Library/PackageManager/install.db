@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.input": {
+      "tarball": {
+        "hash": "c707ff4d69e7",
+        "mtime": 1776755074399,
+        "size": 1659912,
+        "localPath": "D:\\Tugas\\Semester 4\\Mixed Reality\\Bab 7\\Bab 7\\Packages\\MixedReality\\com.microsoft.mixedreality.input-0.9.2006.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "42041f7dc068",
+        "mtime": 1773281808297,
+        "size": 10827883,
+        "localPath": "D:\\Tugas\\Semester 4\\Mixed Reality\\Bab 7\\Bab 7\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.11.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.examples": {
+      "tarball": {
+        "hash": "42f661a9fb5b",
+        "mtime": 1775095821702,
+        "size": 55195848,
+        "localPath": "D:\\Tugas\\Semester 4\\Mixed Reality\\Bab 7\\Bab 7\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.examples-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.extensions": {
+      "tarball": {
+        "hash": "84fe3e76e9b7",
+        "mtime": 1775094106077,
+        "size": 1131406,
+        "localPath": "D:\\Tugas\\Semester 4\\Mixed Reality\\Bab 7\\Bab 7\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.extensions-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "f2323a9b7aec",
+        "mtime": 1775094730036,
+        "size": 11691469,
+        "localPath": "D:\\Tugas\\Semester 4\\Mixed Reality\\Bab 7\\Bab 7\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "aab256284dc6",
+        "mtime": 1775094161496,
+        "size": 5328617,
+        "localPath": "D:\\Tugas\\Semester 4\\Mixed Reality\\Bab 7\\Bab 7\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.tools": {
+      "tarball": {
+        "hash": "650cce437d92",
+        "mtime": 1775094121343,
+        "size": 2111115,
+        "localPath": "D:\\Tugas\\Semester 4\\Mixed Reality\\Bab 7\\Bab 7\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.tools-2.8.3.tgz"
+      }
+    }
+  }
+}

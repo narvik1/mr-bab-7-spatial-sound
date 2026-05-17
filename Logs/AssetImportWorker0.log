@@ -1,0 +1,1049 @@
+Using pre-set license
+Built from '2022.3/respin/2022.3.62f2-4af31df585-v2' branch; Version is '2022.3.62f3 (96770f904ca7) revision 9860879'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 11972 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\unity\engine\2022.3.62f3\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Tugas/Semester 4/Mixed Reality/Bab 7/Bab 7
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62925
+Successfully changed project path to: D:/Tugas/Semester 4/Mixed Reality/Bab 7/Bab 7
+D:/Tugas/Semester 4/Mixed Reality/Bab 7/Bab 7
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [34252]  Target information:
+
+Player connection [34252]  * "[IP] 192.168.0.105 [Port] 0 [Flags] 2 [Guid] 2546849410 [EditorId] 2546849410 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-JCBR3KM4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [34252]  * "[IP] 172.16.0.2 [Port] 0 [Flags] 2 [Guid] 2546849410 [EditorId] 2546849410 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-JCBR3KM4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [34252] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [34252] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Refreshing native plugins compatible for Editor in 24.42 ms, found 17 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.62f3 (96770f904ca7)
+[Subsystems] Discovering subsystems at path D:/unity/engine/2022.3.62f3/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Tugas/Semester 4/Mixed Reality/Bab 7/Bab 7/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4050 Laptop GPU (ID=0x28e1)
+    Vendor:   NVIDIA
+    VRAM:     5920 MB
+    Driver:   32.0.15.9174
+Initialize mono
+Mono path[0] = 'D:/unity/engine/2022.3.62f3/Editor/Data/Managed'
+Mono path[1] = 'D:/unity/engine/2022.3.62f3/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/unity/engine/2022.3.62f3/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56308
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/unity/engine/2022.3.62f3/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: D:/unity/engine/2022.3.62f3/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/unity/engine/2022.3.62f3/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.004601 seconds.
+- Loaded All Assemblies, in  0.367 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 302 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.616 seconds
+Domain Reload Profiling: 983ms
+	BeginReloadAssembly (122ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (53ms)
+	LoadAllAssembliesAndSetupDomain (149ms)
+		LoadAssemblies (121ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (146ms)
+			TypeCache.Refresh (144ms)
+				TypeCache.ScanAssembly (131ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (617ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (565ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (379ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (129ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.870 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Added DLL directory D:\Tugas\Semester 4\Mixed Reality\Bab 7\Bab 7\Library\PackageCache\com.microsoft.mixedreality.input@c707ff4d69e7\Plugins\Windows\x64 to the user search path.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Microsoft.MixedReality.Input.Init:.cctor () (at ./Library/PackageCache/com.microsoft.mixedreality.input@c707ff4d69e7/Editor/Microsoft.MixedReality.Input.Init.cs:88)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: ./Library/PackageCache/com.microsoft.mixedreality.input@c707ff4d69e7/Editor/Microsoft.MixedReality.Input.Init.cs Line: 88)
+
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  0.950 seconds
+Domain Reload Profiling: 1820ms
+	BeginReloadAssembly (165ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (618ms)
+		LoadAssemblies (446ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (272ms)
+			TypeCache.Refresh (219ms)
+				TypeCache.ScanAssembly (197ms)
+			ScanForSourceGeneratedMonoScriptInfo (39ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (950ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (760ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (84ms)
+			ProcessInitializeOnLoadAttributes (576ms)
+			ProcessInitializeOnLoadMethodAttributes (80ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 14.87 ms, found 17 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6375 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (1.2 MB). Loaded Objects now: 6834.
+Memory consumption went from 207.3 MB to 206.2 MB.
+Total: 6.030700 ms (FindLiveObjects: 0.784300 ms CreateObjectMapping: 0.687900 ms MarkObjects: 3.736900 ms  DeleteObjects: 0.819300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 174381.260752 seconds.
+  path: Assets/MixedRealityToolkit.Generated/ProjectPreferences.asset
+  artifactKey: Guid(28271837a57b967488208f18634d0da5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixedRealityToolkit.Generated/ProjectPreferences.asset using Guid(28271837a57b967488208f18634d0da5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '0b80339f212bb09024c9dd9135799438') in 0.015602 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.614 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Added DLL directory D:\Tugas\Semester 4\Mixed Reality\Bab 7\Bab 7\Library\PackageCache\com.microsoft.mixedreality.input@c707ff4d69e7\Plugins\Windows\x64 to the user search path.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Microsoft.MixedReality.Input.Init:.cctor () (at ./Library/PackageCache/com.microsoft.mixedreality.input@c707ff4d69e7/Editor/Microsoft.MixedReality.Input.Init.cs:88)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: ./Library/PackageCache/com.microsoft.mixedreality.input@c707ff4d69e7/Editor/Microsoft.MixedReality.Input.Init.cs Line: 88)
+
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.391 seconds
+Domain Reload Profiling: 2004ms
+	BeginReloadAssembly (177ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (50ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (367ms)
+		LoadAssemblies (408ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (50ms)
+			TypeCache.Refresh (16ms)
+				TypeCache.ScanAssembly (3ms)
+			ScanForSourceGeneratedMonoScriptInfo (20ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1392ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (663ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (100ms)
+			ProcessInitializeOnLoadAttributes (469ms)
+			ProcessInitializeOnLoadMethodAttributes (72ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 10.21 ms, found 17 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6453 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 98 unused Assets / (1.1 MB). Loaded Objects now: 6962.
+Memory consumption went from 200.9 MB to 199.8 MB.
+Total: 5.618700 ms (FindLiveObjects: 0.663100 ms CreateObjectMapping: 0.732400 ms MarkObjects: 3.556400 ms  DeleteObjects: 0.665200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/TargetGroupIterator.cs: 0b9908df4de9620b777f268b5115705e -> 
+  custom:scripting/monoscript/fileName/HideTapToPlaceLabel.cs: c95227b0c407fcfac8a18e23b40f9dad -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/RotateWithConstSpeedDir.cs: 8cdb18ab2bb12e0b21c8033db88580d0 -> 
+  custom:scripting/monoscript/fileName/CustomInputLogger.cs: 7f413829dee715b9593ee4db898972df -> 
+  custom:scripting/monoscript/fileName/SpeechVisualFeedback.cs: f1f3fb2f6640ec03ff1485f20dc26868 -> 
+  custom:scripting/monoscript/fileName/ListItemDwell.cs: ffe968a27a9762cbf67ceafe5ffde75f -> 
+  custom:scripting/monoscript/fileName/UserInputRecorderUIController.cs: a98f72d6df39edcbdb9d609e7951561b -> 
+  custom:scripting/monoscript/fileName/HandInteractionTouchRotate.cs: 8689aa6efe635b90f46fbdd1e24d91ea -> 
+  custom:scripting/monoscript/fileName/ProgressIndicatorDemoAsyncMethod.cs: 7305a524adaf7776d8d3ddc49dd945f1 -> 
+  custom:scripting/monoscript/fileName/BoundaryVisualizationDemo.cs: 9eff4be7a279ccad500601f6d7bb978a -> 
+  custom:scripting/monoscript/fileName/DoNotRender.cs: cf3645ad5020c2885f3ad2cc49378325 -> 
+  custom:scripting/monoscript/fileName/TransportToRespawnLocation.cs: 0d7f79d156b2dc27becffe125f5ba9d3 -> 
+  custom:scripting/monoscript/fileName/SolverExampleManager.cs: 46dd57da5123e1b9a97db27e0e987ee6 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/HideOnDevice.cs: a1e540d7ea7e074d201aaf46c59cf9a3 -> 
+  custom:scripting/monoscript/fileName/WidgetElasticDemo.cs: 48984fcaa0249f380a04241747141f82 -> 
+  custom:scripting/monoscript/fileName/AudioFeedbackPlayer.cs: 428a96132d6176a1a32cb8123e746723 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.Gltf.Inspectors: cbcbefa219896909c49d2c1e41c1418a -> 
+  custom:scripting/monoscript/fileName/BoundsControlRuntimeExample.cs: 3c911ca0e3557ca7abeb66f978b1bcd7 -> 
+  custom:scripting/monoscript/fileName/KeyboardTest.cs: 493b402acb45e99ab60dd5c2de9221ba -> 
+  custom:scripting/monoscript/fileName/IProgressIndicatorDemoObject.cs: 18eb797b549098cc5a7c54e44458dac4 -> 
+  custom:scripting/monoscript/fileName/UserInputPlayback.cs: 1fc759851f1a16a2757fa2e71b3939a1 -> 
+  custom:scripting/monoscript/fileName/TestGlbLoading.cs: 9ae2554315ca293f537422cd12c9614d -> 
+  custom:scripting/monoscript/fileName/DrawOnTexture.cs: b0cce5c03dc6aec39bcd41db48c05360 -> 
+  custom:scripting/monoscript/fileName/InputDataExample.cs: 08fc83f747121052f4a6ce18a772e839 -> 
+  custom:scripting/monoscript/fileName/TargetMoveToCamera.cs: 5816af4fd53f1c9b70f723e4f45ea891 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.StandardShader.Inspectors: 51bd3b4dd8523427f1acfcc489c7c52a -> 
+  custom:scripting/monoscript/fileName/OnSelectVisualizerInputController.cs: 02d1a0fe71868a9992bc3a4fd7ded7c2 -> 
+  custom:scripting/monoscript/fileName/GrabReleaseDetector.cs: 251bf4acf5b6d9faa8656c03f66907e3 -> 
+  custom:scripting/monoscript/fileName/SpawnOnPointerEvent.cs: 3eb012f2847873763e2ed04f558f2b04 -> 
+  custom:scripting/monoscript/fileName/PanZoomBaseRectTransf.cs: ec72a5ecc24fce074c37156eaa0e0e6a -> 
+  custom:scripting/monoscript/fileName/CustomInteractablesReceiver.cs: 7e46e79cece4ecd415ad7df91261912e -> 
+  custom:scripting/monoscript/fileName/LeapMotionOrientationDisplay.cs: f844887d0e72dc064eac26a93c7dee6e -> 
+  custom:scripting/monoscript/fileName/ScrollableListPopulator.cs: 58e24c20ff5b399921d93d0c29895020 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ColorTap.cs: 33a65e0f0c57461689590f69e9e0af9f -> 
+  custom:scripting/monoscript/fileName/LaunchUri.cs: 93986300439805747600a0bba466f89f -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.UX.Interactables: baf78cfcfb7d2d31d30cdcff7644c84e -> 
+  custom:scripting/monoscript/fileName/SystemKeyboardExample.cs: b3d8529a61dffdd2221703f3fac8e015 -> 
+  custom:scripting/monoscript/fileName/ProgressIndicatorDemoSceneLoad.cs: 651a1a5f996d162f87852835e4b36acc -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/LoFiFilterSelection.cs: 496448e229a2c9cde36d746e29c97f1c -> 
+  custom:scripting/monoscript/fileName/ProgressIndicatorDemoAnimation.cs: b1cf35122274dd47d20077142c0db701 -> 
+  custom:scripting/monoscript/fileName/ChangeRenderMode.cs: 74f97f056abc6666779cf3bd50689440 -> 
+  custom:scripting/monoscript/fileName/UserInputRecorder.cs: cede17379a6f22f090e895887bc8cdec -> 
+  custom:scripting/monoscript/fileName/ClearSpatialObservations.cs: 46acb6c66ff042ec42560548ebd20565 -> 
+  custom:scripting/monoscript/fileName/DebugTextOutput.cs: a5c81c3116784f76bc4a408889739f69 -> 
+  custom:scripting/monoscript/fileName/SnapTo.cs: 34e798a835b02b5fd047c0c1ca8c168d -> 
+  custom:scripting/monoscript/fileName/GestureTester.cs: b3c7b3a3286691d6865d340761168f49 -> 
+  custom:scripting/monoscript/fileName/LogStructureEyeGaze.cs: 45542038d3356e091f6e405ddebf349a -> 
+  custom:scripting/monoscript/fileName/ProgressIndicatorDemo.cs: cad6360308538afea68e3c3c6982bd08 -> 
+  custom:scripting/monoscript/fileName/KeepThisAlive.cs: 34068112c976bdc77d3f54c518f8ac2b -> 
+  custom:scripting/monoscript/fileName/SliderLunarLander.cs: b8fc3a221e6f15bf2bc04e0aba18d329 -> 
+  custom:scripting/monoscript/fileName/LoadAdditiveScene.cs: 8d7d8217c5dc63629ae4156771fa6e1e -> 
+  custom:scripting/monoscript/fileName/MixedRealityCapabilityDemo.cs: 35774b69722dcc6f7003721ffec293f9 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/ToggleDwellSample.cs: 4d61966dc5c73a5a75ae32511dac666f -> 
+  custom:scripting/monoscript/fileName/JoystickSliders.cs: af8ffb8931758fabee05e6b1c1902d27 -> 
+  custom:scripting/monoscript/fileName/ToggleGameObject.cs: 0043bd6743481520fe6f9e4d635bfa79 -> 
+  custom:scripting/monoscript/fileName/InspectorFieldsExampleInspector.cs: f59b9f7c634bbb761e3ffb46eb4043b6 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.InspectorFields: 422b33acbdc99bfe89f6a53acf41e76f -> 
+  custom:scripting/monoscript/fileName/MoveObjByEyeGaze.cs: 3d4d9956c1430b3f7d1c97f18c5daf81 -> 
+  custom:scripting/monoscript/fileName/PrimaryPointerHandlerExample.cs: 06f28dd0af6875b4c3ba1f80f1911094 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Rotator.cs: 48fa59973dc8bef7b04d1e9f754f4596 -> 
+  custom:scripting/monoscript/fileName/InspectorFieldsExample.cs: 56a323e7b072ea919d4f8461076a4c00 -> 
+  custom:scripting/monoscript/fileName/ParticleHeatmapParticleData.cs: 1ecdee77c5ee9796e0905c51736588cc -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 6d29a698935a5f25d917a91fea080033 -> 
+  custom:scripting/monoscript/fileName/DemoSceneUnderstandingController.cs: 2128fe22e6c65d6c33c69bfbae6a2f2d -> 
+  custom:scripting/monoscript/fileName/BasicInputLogger.cs: c16ee3d22f6280888473a2f34c2a8e51 -> 
+  custom:scripting/monoscript/fileName/AsyncHelpers.cs: 101f35d446393c8b83b993f522e53a40 -> 
+  custom:scripting/monoscript/fileName/DemoTouchButton.cs: 0b4577c339a222f13182e1de6511afac -> 
+  custom:scripting/monoscript/fileName/MicrophoneAmplitudeDemo.cs: c28fab38b1422954dddb1ba366896cc6 -> 
+  custom:scripting/monoscript/fileName/PanZoomTexture.cs: 58197774ceadf2d9e2786ca6be36dadd -> 
+  custom:scripting/monoscript/fileName/LeapCoreAssetsDetector.cs: 2db050b32979b1c38d9cc8c6633a4ecb -> 
+  custom:scripting/monoscript/fileName/InputPointerVisualizer.cs: 10a6b54f19d24e80bb2fe785069916cb -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:scripting/monoscript/fileName/UserInputRecorderFeedback.cs: 7c388c0128749f85c70606dc32bfffdc -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/KeepFacingCamera.cs: 7aa270adba57cc4113959dad57c6190f -> 
+  custom:scripting/monoscript/fileName/TextToSpeechSample.cs: 3c71d0872c81011ce6e8fc781c52a652 -> 
+  custom:scripting/monoscript/fileName/HitBehaviorDestroyOnSelect.cs: 19bb58ba7b0765bb7edbfa56303b73c1 -> 
+  custom:scripting/monoscript/fileName/StatusText.cs: 47b2feccaadf8697ee5608135ddfd96c -> 
+  custom:scripting/monoscript/fileName/PanZoomBaseTexture.cs: 578c1f2eb77c236dab4af78f05ad904f -> 
+  custom:scripting/monoscript/fileName/BlendOut.cs: ae6bc3109374f6eff67cb7f60e57538c -> 
+  custom:scripting/monoscript/fileName/ReadingModeSceneBehavior.cs: bab385dff761432e035ebe1ae11d66e0 -> 
+  custom:scripting/monoscript/fileName/TetheredPlacement.cs: 1612c43361e69cc2c91868148e7f500a -> 
+  custom:scripting/monoscript/fileName/HandInteractionTouch.cs: ce2998c4530f94945c487fc853cbeaf1 -> 
+  custom:scripting/monoscript/fileName/GrabTouchExample.cs: 7b7f2e036c7ea81570d533b5bb99c4c3 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.Audio: de358adfc027f6aa80653a5848701aee -> 
+  custom:scripting/monoscript/fileName/OnLookAtShowHoverFeedback.cs: bc0b47be094e6cae18f12e8046a46577 -> 
+  custom:scripting/monoscript/fileName/Utils.cs: 6fd1d4325d2180a2a56bea6ab844cd0d -> 40c528c300bfc0733192292a788cb076
+  custom:scripting/monoscript/fileName/RotateWithPan.cs: 4e7bc1ddd03ee9bccff288c881870560 -> 
+  custom:scripting/monoscript/fileName/TestGltfLoading.cs: a4852d6007731c07099ba0f5af849265 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/ScrollTexture.cs: b16c7e72292e0c6764ce36e04324bdd0 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.Gltf: a10e1bb8f906927698bd4eb1c4d5af9e -> 
+  custom:scripting/monoscript/fileName/TargetEventArgs.cs: 73d5e350ffc8f733255bfe68e4992750 -> 
+  custom:scripting/monoscript/fileName/FaceUser.cs: 2c286434c15048db32ce98265b06454c -> 
+  custom:scripting/monoscript/fileName/BoundingBoxExampleTest.cs: 2268e31fe5bb7c015dcdef6052fc0475 -> 
+  custom:scripting/monoscript/fileName/ShowPlaneFindingInstructions.cs: 727c7dec5e94af71550bd59f7068e5aa -> 
+  custom:scripting/monoscript/fileName/PanZoomRectTransf.cs: 8f578ee8043407f0f1c44eccce2e7b0c -> 
+  custom:scripting/monoscript/fileName/GridObjectLayoutControl.cs: 7bfc0b648f393583170167e3d8a2bc13 -> 
+  custom:scripting/monoscript/fileName/OnLookAtRotateByEyeGaze.cs: 73d083d941b6a40c5233119f313ed1b8 -> 
+  custom:scripting/monoscript/fileName/DwellSelection.cs: 3ab59ae46f6d546e4cf70ed9177a7f1d -> 
+  custom:scripting/monoscript/fileName/OnLoadStartScene.cs: 5275266e796edc5749882eb9c54b3bfd -> 
+  custom:scripting/monoscript/fileName/SolverTrackedTargetType.cs: ced5bf17fd9faf9e0166f00279e409c3 -> 
+  custom:scripting/monoscript/fileName/InstantDwellSample.cs: 45570084826473a21fc59890dcc53df6 -> 
+  custom:scripting/monoscript/fileName/TestGltfLoadingEditor.cs: 5f6c56cbe92c9da8314c052be542b4b7 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.InspectorFields.Inspectors: c5395c4227bce5cbcc3ee456605dab96 -> 
+  custom:scripting/monoscript/fileName/ParticleHeatmap.cs: 4a5cb75725f0a7ca7071c83381ac93fc -> 
+  custom:scripting/monoscript/fileName/LogStructure.cs: 80eff735e29ac00309fe39d5059a6324 -> 
+  custom:scripting/monoscript/fileName/MaterialMatrixEditor.cs: b245c12acd1e372ca783251b90304b74 -> 
+  custom:scripting/monoscript/fileName/PanZoomBase.cs: e50daa8539adf4702610c0b903126a2c -> 
+  custom:scripting/monoscript/fileName/TriggerZonePlaceObjsWithin.cs: cadbcaaca736c3021ffa523ffb689cfb -> 
+  custom:scripting/monoscript/fileName/ScrollablePagination.cs: 01c576cfdc619b15e6ed7116a56c4475 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/InputDataExampleGizmo.cs: c6714d725364bef43ffdeb52a263e882 -> 
+  custom:scripting/monoscript/fileName/DialogExampleController.cs: ef17267b77ced0867911a3f8888232a5 -> 
+  custom:scripting/monoscript/fileName/ChangeManipulation.cs: 1a75a529b3ea179f6ac0e7fddbd8959e -> 
+  custom:scripting/monoscript/fileName/BaseDwellSample.cs: a85b193eb0dbc31437a3e6d9994bd117 -> 
+  custom:scripting/monoscript/fileName/ToggleBoundingBox.cs: b758eda501bd4783a3c17a39b0fa4d45 -> 
+  custom:scripting/monoscript/fileName/FollowEyeGaze.cs: af7f416705524ffb1183f24a32b16da7 -> 
+  custom:scripting/monoscript/fileName/ScrollRectTransf.cs: f823706cf7a16145c4dce93947132472 -> 
+  custom:scripting/monoscript/fileName/ChangeSize.cs: 6d13f3e9b708953585462abfb7ac712d -> 
+  custom:scripting/monoscript/fileName/EyeCalibrationChecker.cs: d4dd8d82258a36d37ae8afb80043af18 -> 
+  custom:scripting/monoscript/fileName/MoveWithCamera.cs: 2af8d682e5b080e8fad5c50a761eacea -> 
+  custom:scripting/monoscript/fileName/ReturnToBounds.cs: 68c6f1b6c021c75d144c4c833cf4a544 -> 
+  custom:scripting/monoscript/fileName/TargetGroupCreatorRadial.cs: 70af9d82d99de6e12494e6c5a0e894a8 -> 
+  custom:scripting/monoscript/fileName/DisablePointersExample.cs: 4e34fc4a26bc9900a2f1113a96ad025f -> 
+  custom:scripting/monoscript/fileName/FollowEyeGazeGazeProvider.cs: eff2d64f37235beb51b79b6f693b7252 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 168.637121 seconds.
+  path: Assets/MRTK/Examples/Demos/Audio/MRTK.Demos.Audio.asmdef
+  artifactKey: Guid(93ab1522c5cf2ab4093388e8f7cc118d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK/Examples/Demos/Audio/MRTK.Demos.Audio.asmdef using Guid(93ab1522c5cf2ab4093388e8f7cc118d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c38bf575e8d493933c57ec20fc52e3cf') in 0.004098 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 143.669879 seconds.
+  path: Assets/MRTK/Examples/Demos/Audio/Audio/PolyHover.wav
+  artifactKey: Guid(eafa338ce88fc494c9a14421ec6de352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK/Examples/Demos/Audio/Audio/PolyHover.wav using Guid(eafa338ce88fc494c9a14421ec6de352) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8b82a9a2d7bad80e578b71f6dcbe1c17') in 0.153007 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/MRTK/Examples/Demos/EyeTracking/General/Audio/sound_TapUp.wav
+  artifactKey: Guid(59244bce6dca9494ebc881d9543fa339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK/Examples/Demos/EyeTracking/General/Audio/sound_TapUp.wav using Guid(59244bce6dca9494ebc881d9543fa339) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '3aa0b4a67cfd9ccbc8599be304819c4e') in 0.024341 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/MRTK/Examples/Demos/EyeTracking/General/Audio/sound_Fail.wav
+  artifactKey: Guid(2826b03ccaa826a42af0e68bfd49d948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK/Examples/Demos/EyeTracking/General/Audio/sound_Fail.wav using Guid(2826b03ccaa826a42af0e68bfd49d948) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '9010c0301a5e2a2915a8c4ab440229cf') in 0.020191 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/MRTK/Examples/Demos/EyeTracking/General/Audio/sound_TapDown.wav
+  artifactKey: Guid(9a10debaf8483ae49aa91211098634f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK/Examples/Demos/EyeTracking/General/Audio/sound_TapDown.wav using Guid(9a10debaf8483ae49aa91211098634f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'bd412fc8b01503d4fa931bcddc319fed') in 0.020658 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/MRTK/Examples/Demos/EyeTracking/General/Audio/sound_HandTrackingLost.wav
+  artifactKey: Guid(8f7f0c05bba74364797a5379fff83f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK/Examples/Demos/EyeTracking/General/Audio/sound_HandTrackingLost.wav using Guid(8f7f0c05bba74364797a5379fff83f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'b98ac1050c503703f70f61db9bb367a7') in 0.028430 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/MRTK/Examples/Demos/EyeTracking/General/Audio/sound_TargetSelected_Correct.WAV
+  artifactKey: Guid(465a6a24f76b20746817efe51906d98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK/Examples/Demos/EyeTracking/General/Audio/sound_TargetSelected_Correct.WAV using Guid(465a6a24f76b20746817efe51906d98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c3c214f8f81c009df2c05537a3d724ec') in 0.028901 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.700 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Added DLL directory D:\Tugas\Semester 4\Mixed Reality\Bab 7\Bab 7\Library\PackageCache\com.microsoft.mixedreality.input@c707ff4d69e7\Plugins\Windows\x64 to the user search path.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Microsoft.MixedReality.Input.Init:.cctor () (at ./Library/PackageCache/com.microsoft.mixedreality.input@c707ff4d69e7/Editor/Microsoft.MixedReality.Input.Init.cs:88)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: ./Library/PackageCache/com.microsoft.mixedreality.input@c707ff4d69e7/Editor/Microsoft.MixedReality.Input.Init.cs Line: 88)
+
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.368 seconds
+Domain Reload Profiling: 2066ms
+	BeginReloadAssembly (210ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (62ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (414ms)
+		LoadAssemblies (497ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (26ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (1368ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (700ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (8ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (115ms)
+			ProcessInitializeOnLoadAttributes (488ms)
+			ProcessInitializeOnLoadMethodAttributes (69ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 12.32 ms, found 17 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6453 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 98 unused Assets / (1.1 MB). Loaded Objects now: 6976.
+Memory consumption went from 204.3 MB to 203.2 MB.
+Total: 6.687300 ms (FindLiveObjects: 0.626400 ms CreateObjectMapping: 0.316100 ms MarkObjects: 4.936200 ms  DeleteObjects: 0.806400 ms)
+
+Prepare: number of updated asset objects reloaded= 3
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/TargetGroupIterator.cs: 0b9908df4de9620b777f268b5115705e -> 
+  custom:scripting/monoscript/fileName/HideTapToPlaceLabel.cs: c95227b0c407fcfac8a18e23b40f9dad -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/RotateWithConstSpeedDir.cs: 8cdb18ab2bb12e0b21c8033db88580d0 -> 
+  custom:scripting/monoscript/fileName/CustomInputLogger.cs: 7f413829dee715b9593ee4db898972df -> 
+  custom:scripting/monoscript/fileName/SpeechVisualFeedback.cs: f1f3fb2f6640ec03ff1485f20dc26868 -> 
+  custom:scripting/monoscript/fileName/ListItemDwell.cs: ffe968a27a9762cbf67ceafe5ffde75f -> 
+  custom:scripting/monoscript/fileName/UserInputRecorderUIController.cs: a98f72d6df39edcbdb9d609e7951561b -> 
+  custom:scripting/monoscript/fileName/HandInteractionTouchRotate.cs: 8689aa6efe635b90f46fbdd1e24d91ea -> 
+  custom:scripting/monoscript/fileName/ProgressIndicatorDemoAsyncMethod.cs: 7305a524adaf7776d8d3ddc49dd945f1 -> 
+  custom:scripting/monoscript/fileName/BoundaryVisualizationDemo.cs: 9eff4be7a279ccad500601f6d7bb978a -> 
+  custom:scripting/monoscript/fileName/DoNotRender.cs: cf3645ad5020c2885f3ad2cc49378325 -> 
+  custom:scripting/monoscript/fileName/TransportToRespawnLocation.cs: 0d7f79d156b2dc27becffe125f5ba9d3 -> 
+  custom:scripting/monoscript/fileName/SolverExampleManager.cs: 46dd57da5123e1b9a97db27e0e987ee6 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/HideOnDevice.cs: a1e540d7ea7e074d201aaf46c59cf9a3 -> 
+  custom:scripting/monoscript/fileName/WidgetElasticDemo.cs: 48984fcaa0249f380a04241747141f82 -> 
+  custom:scripting/monoscript/fileName/AudioFeedbackPlayer.cs: 428a96132d6176a1a32cb8123e746723 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.Gltf.Inspectors: cbcbefa219896909c49d2c1e41c1418a -> 
+  custom:scripting/monoscript/fileName/BoundsControlRuntimeExample.cs: 3c911ca0e3557ca7abeb66f978b1bcd7 -> 
+  custom:scripting/monoscript/fileName/KeyboardTest.cs: 493b402acb45e99ab60dd5c2de9221ba -> 
+  custom:scripting/monoscript/fileName/IProgressIndicatorDemoObject.cs: 18eb797b549098cc5a7c54e44458dac4 -> 
+  custom:scripting/monoscript/fileName/UserInputPlayback.cs: 1fc759851f1a16a2757fa2e71b3939a1 -> 
+  custom:scripting/monoscript/fileName/TestGlbLoading.cs: 9ae2554315ca293f537422cd12c9614d -> 
+  custom:scripting/monoscript/fileName/DrawOnTexture.cs: b0cce5c03dc6aec39bcd41db48c05360 -> 
+  custom:scripting/monoscript/fileName/InputDataExample.cs: 08fc83f747121052f4a6ce18a772e839 -> 
+  custom:scripting/monoscript/fileName/TargetMoveToCamera.cs: 5816af4fd53f1c9b70f723e4f45ea891 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.StandardShader.Inspectors: 51bd3b4dd8523427f1acfcc489c7c52a -> 
+  custom:scripting/monoscript/fileName/OnSelectVisualizerInputController.cs: 02d1a0fe71868a9992bc3a4fd7ded7c2 -> 
+  custom:scripting/monoscript/fileName/GrabReleaseDetector.cs: 251bf4acf5b6d9faa8656c03f66907e3 -> 
+  custom:scripting/monoscript/fileName/SpawnOnPointerEvent.cs: 3eb012f2847873763e2ed04f558f2b04 -> 
+  custom:scripting/monoscript/fileName/PanZoomBaseRectTransf.cs: ec72a5ecc24fce074c37156eaa0e0e6a -> 
+  custom:scripting/monoscript/fileName/CustomInteractablesReceiver.cs: 7e46e79cece4ecd415ad7df91261912e -> 
+  custom:scripting/monoscript/fileName/LeapMotionOrientationDisplay.cs: f844887d0e72dc064eac26a93c7dee6e -> 
+  custom:scripting/monoscript/fileName/ScrollableListPopulator.cs: 58e24c20ff5b399921d93d0c29895020 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ColorTap.cs: 33a65e0f0c57461689590f69e9e0af9f -> 
+  custom:scripting/monoscript/fileName/LaunchUri.cs: 93986300439805747600a0bba466f89f -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.UX.Interactables: baf78cfcfb7d2d31d30cdcff7644c84e -> 
+  custom:scripting/monoscript/fileName/SystemKeyboardExample.cs: b3d8529a61dffdd2221703f3fac8e015 -> 
+  custom:scripting/monoscript/fileName/ProgressIndicatorDemoSceneLoad.cs: 651a1a5f996d162f87852835e4b36acc -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/LoFiFilterSelection.cs: 496448e229a2c9cde36d746e29c97f1c -> 
+  custom:scripting/monoscript/fileName/ProgressIndicatorDemoAnimation.cs: b1cf35122274dd47d20077142c0db701 -> 
+  custom:scripting/monoscript/fileName/ChangeRenderMode.cs: 74f97f056abc6666779cf3bd50689440 -> 
+  custom:scripting/monoscript/fileName/UserInputRecorder.cs: cede17379a6f22f090e895887bc8cdec -> 
+  custom:scripting/monoscript/fileName/ClearSpatialObservations.cs: 46acb6c66ff042ec42560548ebd20565 -> 
+  custom:scripting/monoscript/fileName/DebugTextOutput.cs: a5c81c3116784f76bc4a408889739f69 -> 
+  custom:scripting/monoscript/fileName/SnapTo.cs: 34e798a835b02b5fd047c0c1ca8c168d -> 
+  custom:scripting/monoscript/fileName/GestureTester.cs: b3c7b3a3286691d6865d340761168f49 -> 
+  custom:scripting/monoscript/fileName/LogStructureEyeGaze.cs: 45542038d3356e091f6e405ddebf349a -> 
+  custom:scripting/monoscript/fileName/ProgressIndicatorDemo.cs: cad6360308538afea68e3c3c6982bd08 -> 
+  custom:scripting/monoscript/fileName/KeepThisAlive.cs: 34068112c976bdc77d3f54c518f8ac2b -> 
+  custom:scripting/monoscript/fileName/SliderLunarLander.cs: b8fc3a221e6f15bf2bc04e0aba18d329 -> 
+  custom:scripting/monoscript/fileName/LoadAdditiveScene.cs: 8d7d8217c5dc63629ae4156771fa6e1e -> 
+  custom:scripting/monoscript/fileName/MixedRealityCapabilityDemo.cs: 35774b69722dcc6f7003721ffec293f9 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/ToggleDwellSample.cs: 4d61966dc5c73a5a75ae32511dac666f -> 
+  custom:scripting/monoscript/fileName/JoystickSliders.cs: af8ffb8931758fabee05e6b1c1902d27 -> 
+  custom:scripting/monoscript/fileName/ToggleGameObject.cs: 0043bd6743481520fe6f9e4d635bfa79 -> 
+  custom:scripting/monoscript/fileName/InspectorFieldsExampleInspector.cs: f59b9f7c634bbb761e3ffb46eb4043b6 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.InspectorFields: 422b33acbdc99bfe89f6a53acf41e76f -> 
+  custom:scripting/monoscript/fileName/MoveObjByEyeGaze.cs: 3d4d9956c1430b3f7d1c97f18c5daf81 -> 
+  custom:scripting/monoscript/fileName/PrimaryPointerHandlerExample.cs: 06f28dd0af6875b4c3ba1f80f1911094 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Rotator.cs: 48fa59973dc8bef7b04d1e9f754f4596 -> 
+  custom:scripting/monoscript/fileName/InspectorFieldsExample.cs: 56a323e7b072ea919d4f8461076a4c00 -> 
+  custom:scripting/monoscript/fileName/ParticleHeatmapParticleData.cs: 1ecdee77c5ee9796e0905c51736588cc -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 6d29a698935a5f25d917a91fea080033 -> 
+  custom:scripting/monoscript/fileName/DemoSceneUnderstandingController.cs: 2128fe22e6c65d6c33c69bfbae6a2f2d -> 
+  custom:scripting/monoscript/fileName/BasicInputLogger.cs: c16ee3d22f6280888473a2f34c2a8e51 -> 
+  custom:scripting/monoscript/fileName/AsyncHelpers.cs: 101f35d446393c8b83b993f522e53a40 -> 
+  custom:scripting/monoscript/fileName/DemoTouchButton.cs: 0b4577c339a222f13182e1de6511afac -> 
+  custom:scripting/monoscript/fileName/MicrophoneAmplitudeDemo.cs: c28fab38b1422954dddb1ba366896cc6 -> 
+  custom:scripting/monoscript/fileName/PanZoomTexture.cs: 58197774ceadf2d9e2786ca6be36dadd -> 
+  custom:scripting/monoscript/fileName/LeapCoreAssetsDetector.cs: 2db050b32979b1c38d9cc8c6633a4ecb -> 
+  custom:scripting/monoscript/fileName/InputPointerVisualizer.cs: 10a6b54f19d24e80bb2fe785069916cb -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:scripting/monoscript/fileName/UserInputRecorderFeedback.cs: 7c388c0128749f85c70606dc32bfffdc -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/KeepFacingCamera.cs: 7aa270adba57cc4113959dad57c6190f -> 
+  custom:scripting/monoscript/fileName/TextToSpeechSample.cs: 3c71d0872c81011ce6e8fc781c52a652 -> 
+  custom:scripting/monoscript/fileName/HitBehaviorDestroyOnSelect.cs: 19bb58ba7b0765bb7edbfa56303b73c1 -> 
+  custom:scripting/monoscript/fileName/StatusText.cs: 47b2feccaadf8697ee5608135ddfd96c -> 
+  custom:scripting/monoscript/fileName/PanZoomBaseTexture.cs: 578c1f2eb77c236dab4af78f05ad904f -> 
+  custom:scripting/monoscript/fileName/BlendOut.cs: ae6bc3109374f6eff67cb7f60e57538c -> 
+  custom:scripting/monoscript/fileName/ReadingModeSceneBehavior.cs: bab385dff761432e035ebe1ae11d66e0 -> 
+  custom:scripting/monoscript/fileName/TetheredPlacement.cs: 1612c43361e69cc2c91868148e7f500a -> 
+  custom:scripting/monoscript/fileName/HandInteractionTouch.cs: ce2998c4530f94945c487fc853cbeaf1 -> 
+  custom:scripting/monoscript/fileName/GrabTouchExample.cs: 7b7f2e036c7ea81570d533b5bb99c4c3 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.Audio: de358adfc027f6aa80653a5848701aee -> 
+  custom:scripting/monoscript/fileName/OnLookAtShowHoverFeedback.cs: bc0b47be094e6cae18f12e8046a46577 -> 
+  custom:scripting/monoscript/fileName/Utils.cs: 6fd1d4325d2180a2a56bea6ab844cd0d -> 40c528c300bfc0733192292a788cb076
+  custom:scripting/monoscript/fileName/RotateWithPan.cs: 4e7bc1ddd03ee9bccff288c881870560 -> 
+  custom:scripting/monoscript/fileName/TestGltfLoading.cs: a4852d6007731c07099ba0f5af849265 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/ScrollTexture.cs: b16c7e72292e0c6764ce36e04324bdd0 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.Gltf: a10e1bb8f906927698bd4eb1c4d5af9e -> 
+  custom:scripting/monoscript/fileName/TargetEventArgs.cs: 73d5e350ffc8f733255bfe68e4992750 -> 
+  custom:scripting/monoscript/fileName/FaceUser.cs: 2c286434c15048db32ce98265b06454c -> 
+  custom:scripting/monoscript/fileName/BoundingBoxExampleTest.cs: 2268e31fe5bb7c015dcdef6052fc0475 -> 
+  custom:scripting/monoscript/fileName/ShowPlaneFindingInstructions.cs: 727c7dec5e94af71550bd59f7068e5aa -> 
+  custom:scripting/monoscript/fileName/PanZoomRectTransf.cs: 8f578ee8043407f0f1c44eccce2e7b0c -> 
+  custom:scripting/monoscript/fileName/GridObjectLayoutControl.cs: 7bfc0b648f393583170167e3d8a2bc13 -> 
+  custom:scripting/monoscript/fileName/OnLookAtRotateByEyeGaze.cs: 73d083d941b6a40c5233119f313ed1b8 -> 
+  custom:scripting/monoscript/fileName/DwellSelection.cs: 3ab59ae46f6d546e4cf70ed9177a7f1d -> 
+  custom:scripting/monoscript/fileName/OnLoadStartScene.cs: 5275266e796edc5749882eb9c54b3bfd -> 
+  custom:scripting/monoscript/fileName/SolverTrackedTargetType.cs: ced5bf17fd9faf9e0166f00279e409c3 -> 
+  custom:scripting/monoscript/fileName/InstantDwellSample.cs: 45570084826473a21fc59890dcc53df6 -> 
+  custom:scripting/monoscript/fileName/TestGltfLoadingEditor.cs: 5f6c56cbe92c9da8314c052be542b4b7 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.InspectorFields.Inspectors: c5395c4227bce5cbcc3ee456605dab96 -> 
+  custom:scripting/monoscript/fileName/ParticleHeatmap.cs: 4a5cb75725f0a7ca7071c83381ac93fc -> 
+  custom:scripting/monoscript/fileName/LogStructure.cs: 80eff735e29ac00309fe39d5059a6324 -> 
+  custom:scripting/monoscript/fileName/MaterialMatrixEditor.cs: b245c12acd1e372ca783251b90304b74 -> 
+  custom:scripting/monoscript/fileName/PanZoomBase.cs: e50daa8539adf4702610c0b903126a2c -> 
+  custom:scripting/monoscript/fileName/TriggerZonePlaceObjsWithin.cs: cadbcaaca736c3021ffa523ffb689cfb -> 
+  custom:scripting/monoscript/fileName/ScrollablePagination.cs: 01c576cfdc619b15e6ed7116a56c4475 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/InputDataExampleGizmo.cs: c6714d725364bef43ffdeb52a263e882 -> 
+  custom:scripting/monoscript/fileName/DialogExampleController.cs: ef17267b77ced0867911a3f8888232a5 -> 
+  custom:scripting/monoscript/fileName/ChangeManipulation.cs: 1a75a529b3ea179f6ac0e7fddbd8959e -> 
+  custom:scripting/monoscript/fileName/BaseDwellSample.cs: a85b193eb0dbc31437a3e6d9994bd117 -> 
+  custom:scripting/monoscript/fileName/ToggleBoundingBox.cs: b758eda501bd4783a3c17a39b0fa4d45 -> 
+  custom:scripting/monoscript/fileName/FollowEyeGaze.cs: af7f416705524ffb1183f24a32b16da7 -> 
+  custom:scripting/monoscript/fileName/ScrollRectTransf.cs: f823706cf7a16145c4dce93947132472 -> 
+  custom:scripting/monoscript/fileName/ChangeSize.cs: 6d13f3e9b708953585462abfb7ac712d -> 
+  custom:scripting/monoscript/fileName/EyeCalibrationChecker.cs: d4dd8d82258a36d37ae8afb80043af18 -> 
+  custom:scripting/monoscript/fileName/MoveWithCamera.cs: 2af8d682e5b080e8fad5c50a761eacea -> 
+  custom:scripting/monoscript/fileName/ReturnToBounds.cs: 68c6f1b6c021c75d144c4c833cf4a544 -> 
+  custom:scripting/monoscript/fileName/TargetGroupCreatorRadial.cs: 70af9d82d99de6e12494e6c5a0e894a8 -> 
+  custom:scripting/monoscript/fileName/DisablePointersExample.cs: 4e34fc4a26bc9900a2f1113a96ad025f -> 
+  custom:scripting/monoscript/fileName/FollowEyeGazeGazeProvider.cs: eff2d64f37235beb51b79b6f693b7252 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.631 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Added DLL directory D:\Tugas\Semester 4\Mixed Reality\Bab 7\Bab 7\Library\PackageCache\com.microsoft.mixedreality.input@c707ff4d69e7\Plugins\Windows\x64 to the user search path.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Microsoft.MixedReality.Input.Init:.cctor () (at ./Library/PackageCache/com.microsoft.mixedreality.input@c707ff4d69e7/Editor/Microsoft.MixedReality.Input.Init.cs:88)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: ./Library/PackageCache/com.microsoft.mixedreality.input@c707ff4d69e7/Editor/Microsoft.MixedReality.Input.Init.cs Line: 88)
+
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.390 seconds
+Domain Reload Profiling: 2021ms
+	BeginReloadAssembly (178ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (52ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (387ms)
+		LoadAssemblies (442ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (35ms)
+			TypeCache.Refresh (14ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (18ms)
+	FinalizeReload (1391ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (718ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (8ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (107ms)
+			ProcessInitializeOnLoadAttributes (518ms)
+			ProcessInitializeOnLoadMethodAttributes (66ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 16.43 ms, found 17 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6454 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 98 unused Assets / (1.1 MB). Loaded Objects now: 6982.
+Memory consumption went from 204.6 MB to 203.4 MB.
+Total: 8.468600 ms (FindLiveObjects: 0.917100 ms CreateObjectMapping: 0.728000 ms MarkObjects: 5.810300 ms  DeleteObjects: 1.011700 ms)
+
+Prepare: number of updated asset objects reloaded= 4
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/TargetGroupIterator.cs: 0b9908df4de9620b777f268b5115705e -> 
+  custom:scripting/monoscript/fileName/HideTapToPlaceLabel.cs: c95227b0c407fcfac8a18e23b40f9dad -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/RotateWithConstSpeedDir.cs: 8cdb18ab2bb12e0b21c8033db88580d0 -> 
+  custom:scripting/monoscript/fileName/CustomInputLogger.cs: 7f413829dee715b9593ee4db898972df -> 
+  custom:scripting/monoscript/fileName/SpeechVisualFeedback.cs: f1f3fb2f6640ec03ff1485f20dc26868 -> 
+  custom:scripting/monoscript/fileName/ListItemDwell.cs: ffe968a27a9762cbf67ceafe5ffde75f -> 
+  custom:scripting/monoscript/fileName/UserInputRecorderUIController.cs: a98f72d6df39edcbdb9d609e7951561b -> 
+  custom:scripting/monoscript/fileName/HandInteractionTouchRotate.cs: 8689aa6efe635b90f46fbdd1e24d91ea -> 
+  custom:scripting/monoscript/fileName/ProgressIndicatorDemoAsyncMethod.cs: 7305a524adaf7776d8d3ddc49dd945f1 -> 
+  custom:scripting/monoscript/fileName/BoundaryVisualizationDemo.cs: 9eff4be7a279ccad500601f6d7bb978a -> 
+  custom:scripting/monoscript/fileName/DoNotRender.cs: cf3645ad5020c2885f3ad2cc49378325 -> 
+  custom:scripting/monoscript/fileName/TransportToRespawnLocation.cs: 0d7f79d156b2dc27becffe125f5ba9d3 -> 
+  custom:scripting/monoscript/fileName/SolverExampleManager.cs: 46dd57da5123e1b9a97db27e0e987ee6 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/HideOnDevice.cs: a1e540d7ea7e074d201aaf46c59cf9a3 -> 
+  custom:scripting/monoscript/fileName/WidgetElasticDemo.cs: 48984fcaa0249f380a04241747141f82 -> 
+  custom:scripting/monoscript/fileName/AudioFeedbackPlayer.cs: 428a96132d6176a1a32cb8123e746723 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.Gltf.Inspectors: cbcbefa219896909c49d2c1e41c1418a -> 
+  custom:scripting/monoscript/fileName/BoundsControlRuntimeExample.cs: 3c911ca0e3557ca7abeb66f978b1bcd7 -> 
+  custom:scripting/monoscript/fileName/KeyboardTest.cs: 493b402acb45e99ab60dd5c2de9221ba -> 
+  custom:scripting/monoscript/fileName/IProgressIndicatorDemoObject.cs: 18eb797b549098cc5a7c54e44458dac4 -> 
+  custom:scripting/monoscript/fileName/UserInputPlayback.cs: 1fc759851f1a16a2757fa2e71b3939a1 -> 
+  custom:scripting/monoscript/fileName/TestGlbLoading.cs: 9ae2554315ca293f537422cd12c9614d -> 
+  custom:scripting/monoscript/fileName/DrawOnTexture.cs: b0cce5c03dc6aec39bcd41db48c05360 -> 
+  custom:scripting/monoscript/fileName/InputDataExample.cs: 08fc83f747121052f4a6ce18a772e839 -> 
+  custom:scripting/monoscript/fileName/TargetMoveToCamera.cs: 5816af4fd53f1c9b70f723e4f45ea891 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.StandardShader.Inspectors: 51bd3b4dd8523427f1acfcc489c7c52a -> 
+  custom:scripting/monoscript/fileName/OnSelectVisualizerInputController.cs: 02d1a0fe71868a9992bc3a4fd7ded7c2 -> 
+  custom:scripting/monoscript/fileName/GrabReleaseDetector.cs: 251bf4acf5b6d9faa8656c03f66907e3 -> 
+  custom:scripting/monoscript/fileName/SpawnOnPointerEvent.cs: 3eb012f2847873763e2ed04f558f2b04 -> 
+  custom:scripting/monoscript/fileName/PanZoomBaseRectTransf.cs: ec72a5ecc24fce074c37156eaa0e0e6a -> 
+  custom:scripting/monoscript/fileName/CustomInteractablesReceiver.cs: 7e46e79cece4ecd415ad7df91261912e -> 
+  custom:scripting/monoscript/fileName/LeapMotionOrientationDisplay.cs: f844887d0e72dc064eac26a93c7dee6e -> 
+  custom:scripting/monoscript/fileName/ScrollableListPopulator.cs: 58e24c20ff5b399921d93d0c29895020 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ColorTap.cs: 33a65e0f0c57461689590f69e9e0af9f -> 
+  custom:scripting/monoscript/fileName/LaunchUri.cs: 93986300439805747600a0bba466f89f -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.UX.Interactables: baf78cfcfb7d2d31d30cdcff7644c84e -> 
+  custom:scripting/monoscript/fileName/SystemKeyboardExample.cs: b3d8529a61dffdd2221703f3fac8e015 -> 
+  custom:scripting/monoscript/fileName/ProgressIndicatorDemoSceneLoad.cs: 651a1a5f996d162f87852835e4b36acc -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/LoFiFilterSelection.cs: 496448e229a2c9cde36d746e29c97f1c -> 
+  custom:scripting/monoscript/fileName/ProgressIndicatorDemoAnimation.cs: b1cf35122274dd47d20077142c0db701 -> 
+  custom:scripting/monoscript/fileName/ChangeRenderMode.cs: 74f97f056abc6666779cf3bd50689440 -> 
+  custom:scripting/monoscript/fileName/UserInputRecorder.cs: cede17379a6f22f090e895887bc8cdec -> 
+  custom:scripting/monoscript/fileName/ClearSpatialObservations.cs: 46acb6c66ff042ec42560548ebd20565 -> 
+  custom:scripting/monoscript/fileName/DebugTextOutput.cs: a5c81c3116784f76bc4a408889739f69 -> 
+  custom:scripting/monoscript/fileName/SnapTo.cs: 34e798a835b02b5fd047c0c1ca8c168d -> 
+  custom:scripting/monoscript/fileName/GestureTester.cs: b3c7b3a3286691d6865d340761168f49 -> 
+  custom:scripting/monoscript/fileName/LogStructureEyeGaze.cs: 45542038d3356e091f6e405ddebf349a -> 
+  custom:scripting/monoscript/fileName/ProgressIndicatorDemo.cs: cad6360308538afea68e3c3c6982bd08 -> 
+  custom:scripting/monoscript/fileName/KeepThisAlive.cs: 34068112c976bdc77d3f54c518f8ac2b -> 
+  custom:scripting/monoscript/fileName/SliderLunarLander.cs: b8fc3a221e6f15bf2bc04e0aba18d329 -> 
+  custom:scripting/monoscript/fileName/LoadAdditiveScene.cs: 8d7d8217c5dc63629ae4156771fa6e1e -> 
+  custom:scripting/monoscript/fileName/MixedRealityCapabilityDemo.cs: 35774b69722dcc6f7003721ffec293f9 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/ToggleDwellSample.cs: 4d61966dc5c73a5a75ae32511dac666f -> 
+  custom:scripting/monoscript/fileName/JoystickSliders.cs: af8ffb8931758fabee05e6b1c1902d27 -> 
+  custom:scripting/monoscript/fileName/ToggleGameObject.cs: 0043bd6743481520fe6f9e4d635bfa79 -> 
+  custom:scripting/monoscript/fileName/InspectorFieldsExampleInspector.cs: f59b9f7c634bbb761e3ffb46eb4043b6 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.InspectorFields: 422b33acbdc99bfe89f6a53acf41e76f -> 
+  custom:scripting/monoscript/fileName/MoveObjByEyeGaze.cs: 3d4d9956c1430b3f7d1c97f18c5daf81 -> 
+  custom:scripting/monoscript/fileName/PrimaryPointerHandlerExample.cs: 06f28dd0af6875b4c3ba1f80f1911094 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Rotator.cs: 48fa59973dc8bef7b04d1e9f754f4596 -> 
+  custom:scripting/monoscript/fileName/InspectorFieldsExample.cs: 56a323e7b072ea919d4f8461076a4c00 -> 
+  custom:scripting/monoscript/fileName/ParticleHeatmapParticleData.cs: 1ecdee77c5ee9796e0905c51736588cc -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 6d29a698935a5f25d917a91fea080033 -> 
+  custom:scripting/monoscript/fileName/DemoSceneUnderstandingController.cs: 2128fe22e6c65d6c33c69bfbae6a2f2d -> 
+  custom:scripting/monoscript/fileName/BasicInputLogger.cs: c16ee3d22f6280888473a2f34c2a8e51 -> 
+  custom:scripting/monoscript/fileName/AsyncHelpers.cs: 101f35d446393c8b83b993f522e53a40 -> 
+  custom:scripting/monoscript/fileName/DemoTouchButton.cs: 0b4577c339a222f13182e1de6511afac -> 
+  custom:scripting/monoscript/fileName/MicrophoneAmplitudeDemo.cs: c28fab38b1422954dddb1ba366896cc6 -> 
+  custom:scripting/monoscript/fileName/PanZoomTexture.cs: 58197774ceadf2d9e2786ca6be36dadd -> 
+  custom:scripting/monoscript/fileName/LeapCoreAssetsDetector.cs: 2db050b32979b1c38d9cc8c6633a4ecb -> 
+  custom:scripting/monoscript/fileName/InputPointerVisualizer.cs: 10a6b54f19d24e80bb2fe785069916cb -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:scripting/monoscript/fileName/UserInputRecorderFeedback.cs: 7c388c0128749f85c70606dc32bfffdc -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/KeepFacingCamera.cs: 7aa270adba57cc4113959dad57c6190f -> 
+  custom:scripting/monoscript/fileName/TextToSpeechSample.cs: 3c71d0872c81011ce6e8fc781c52a652 -> 
+  custom:scripting/monoscript/fileName/HitBehaviorDestroyOnSelect.cs: 19bb58ba7b0765bb7edbfa56303b73c1 -> 
+  custom:scripting/monoscript/fileName/StatusText.cs: 47b2feccaadf8697ee5608135ddfd96c -> 
+  custom:scripting/monoscript/fileName/PanZoomBaseTexture.cs: 578c1f2eb77c236dab4af78f05ad904f -> 
+  custom:scripting/monoscript/fileName/BlendOut.cs: ae6bc3109374f6eff67cb7f60e57538c -> 
+  custom:scripting/monoscript/fileName/ReadingModeSceneBehavior.cs: bab385dff761432e035ebe1ae11d66e0 -> 
+  custom:scripting/monoscript/fileName/TetheredPlacement.cs: 1612c43361e69cc2c91868148e7f500a -> 
+  custom:scripting/monoscript/fileName/HandInteractionTouch.cs: ce2998c4530f94945c487fc853cbeaf1 -> 
+  custom:scripting/monoscript/fileName/GrabTouchExample.cs: 7b7f2e036c7ea81570d533b5bb99c4c3 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.Audio: de358adfc027f6aa80653a5848701aee -> 
+  custom:scripting/monoscript/fileName/OnLookAtShowHoverFeedback.cs: bc0b47be094e6cae18f12e8046a46577 -> 
+  custom:scripting/monoscript/fileName/Utils.cs: 6fd1d4325d2180a2a56bea6ab844cd0d -> 40c528c300bfc0733192292a788cb076
+  custom:scripting/monoscript/fileName/RotateWithPan.cs: 4e7bc1ddd03ee9bccff288c881870560 -> 
+  custom:scripting/monoscript/fileName/TestGltfLoading.cs: a4852d6007731c07099ba0f5af849265 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/ScrollTexture.cs: b16c7e72292e0c6764ce36e04324bdd0 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.Gltf: a10e1bb8f906927698bd4eb1c4d5af9e -> 
+  custom:scripting/monoscript/fileName/TargetEventArgs.cs: 73d5e350ffc8f733255bfe68e4992750 -> 
+  custom:scripting/monoscript/fileName/FaceUser.cs: 2c286434c15048db32ce98265b06454c -> 
+  custom:scripting/monoscript/fileName/BoundingBoxExampleTest.cs: 2268e31fe5bb7c015dcdef6052fc0475 -> 
+  custom:scripting/monoscript/fileName/ShowPlaneFindingInstructions.cs: 727c7dec5e94af71550bd59f7068e5aa -> 
+  custom:scripting/monoscript/fileName/PanZoomRectTransf.cs: 8f578ee8043407f0f1c44eccce2e7b0c -> 
+  custom:scripting/monoscript/fileName/GridObjectLayoutControl.cs: 7bfc0b648f393583170167e3d8a2bc13 -> 
+  custom:scripting/monoscript/fileName/OnLookAtRotateByEyeGaze.cs: 73d083d941b6a40c5233119f313ed1b8 -> 
+  custom:scripting/monoscript/fileName/DwellSelection.cs: 3ab59ae46f6d546e4cf70ed9177a7f1d -> 
+  custom:scripting/monoscript/fileName/OnLoadStartScene.cs: 5275266e796edc5749882eb9c54b3bfd -> 
+  custom:scripting/monoscript/fileName/SolverTrackedTargetType.cs: ced5bf17fd9faf9e0166f00279e409c3 -> 
+  custom:scripting/monoscript/fileName/InstantDwellSample.cs: 45570084826473a21fc59890dcc53df6 -> 
+  custom:scripting/monoscript/fileName/TestGltfLoadingEditor.cs: 5f6c56cbe92c9da8314c052be542b4b7 -> 
+  custom:scripting/precompiled-assembly-types:Microsoft.MixedReality.Toolkit.Demos.InspectorFields.Inspectors: c5395c4227bce5cbcc3ee456605dab96 -> 
+  custom:scripting/monoscript/fileName/ParticleHeatmap.cs: 4a5cb75725f0a7ca7071c83381ac93fc -> 
+  custom:scripting/monoscript/fileName/LogStructure.cs: 80eff735e29ac00309fe39d5059a6324 -> 
+  custom:scripting/monoscript/fileName/MaterialMatrixEditor.cs: b245c12acd1e372ca783251b90304b74 -> 
+  custom:scripting/monoscript/fileName/PanZoomBase.cs: e50daa8539adf4702610c0b903126a2c -> 
+  custom:scripting/monoscript/fileName/TriggerZonePlaceObjsWithin.cs: cadbcaaca736c3021ffa523ffb689cfb -> 
+  custom:scripting/monoscript/fileName/ScrollablePagination.cs: 01c576cfdc619b15e6ed7116a56c4475 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/InputDataExampleGizmo.cs: c6714d725364bef43ffdeb52a263e882 -> 
+  custom:scripting/monoscript/fileName/DialogExampleController.cs: ef17267b77ced0867911a3f8888232a5 -> 
+  custom:scripting/monoscript/fileName/ChangeManipulation.cs: 1a75a529b3ea179f6ac0e7fddbd8959e -> 
+  custom:scripting/monoscript/fileName/BaseDwellSample.cs: a85b193eb0dbc31437a3e6d9994bd117 -> 
+  custom:scripting/monoscript/fileName/ToggleBoundingBox.cs: b758eda501bd4783a3c17a39b0fa4d45 -> 
+  custom:scripting/monoscript/fileName/FollowEyeGaze.cs: af7f416705524ffb1183f24a32b16da7 -> 
+  custom:scripting/monoscript/fileName/ScrollRectTransf.cs: f823706cf7a16145c4dce93947132472 -> 
+  custom:scripting/monoscript/fileName/ChangeSize.cs: 6d13f3e9b708953585462abfb7ac712d -> 
+  custom:scripting/monoscript/fileName/EyeCalibrationChecker.cs: d4dd8d82258a36d37ae8afb80043af18 -> 
+  custom:scripting/monoscript/fileName/MoveWithCamera.cs: 2af8d682e5b080e8fad5c50a761eacea -> 
+  custom:scripting/monoscript/fileName/ReturnToBounds.cs: 68c6f1b6c021c75d144c4c833cf4a544 -> 
+  custom:scripting/monoscript/fileName/TargetGroupCreatorRadial.cs: 70af9d82d99de6e12494e6c5a0e894a8 -> 
+  custom:scripting/monoscript/fileName/DisablePointersExample.cs: 4e34fc4a26bc9900a2f1113a96ad025f -> 
+  custom:scripting/monoscript/fileName/FollowEyeGazeGazeProvider.cs: eff2d64f37235beb51b79b6f693b7252 -> 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
